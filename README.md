@@ -5,5 +5,5 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=280px height=280px/>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--   **Skills :** Python, MySQL, PoWer BI, Tableau, Statistics 
+-   **Skills :** Python, MySQL, Power BI, Tableau, Statistics 
 -  **Working at :** Amazon Development Centre India Pvt.Ltd.
